@@ -4,3 +4,4 @@ xgboost==2.1.1
 seaborn
 scikit-learn==1.2.2
 cython==0.29.35
+setuptools>=67.0.0
